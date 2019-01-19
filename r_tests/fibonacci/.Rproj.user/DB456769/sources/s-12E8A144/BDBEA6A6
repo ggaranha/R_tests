@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1547907849561.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "625365397",
+    "id" : "BDBEA6A6",
+    "lastKnownWriteTime" : 1547908112,
+    "last_content_update" : 1547908112174,
+    "path" : "D:/Documents/github/R_tests/r_tests/function_fibonacci.r",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "15,16",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : true,
+    "source_window" : "",
+    "type" : "r_source"
+}
